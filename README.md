@@ -13,15 +13,12 @@
 
 - 💬 Tanyakan kepada saya tentang **React,nextjs**
 
-- 📫 Cara menghubungi saya **baadriana0402@gmail.com**
 
 <h3 align="left">Hubungi saya:</h3>
 <p align="left">
-<a href="https://dev.to/badriana400952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="badriana400952" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/badriana-badrian?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/badriana-badrian?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/bahasa-terbaik?username=badriana400952&show_icons=true&locale=id&layout=compact" alt="badriana400952" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=badriana400952&show_icons=true&locale=id" alt="badriana400952" /></p>
