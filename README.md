@@ -1,24 +1,60 @@
-<h1 align="center">Hai 👋, saya Badriana</h1>
-<h3 align="center">Pengembang frontend yang bersemangat dari Indonesia</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badriana400952&label=Profile%20views&color=0e75b6&style=flat" alt="badriana400952" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badriana400952" alt="badriana400952" /></a> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/badriana-badrian?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://wasap.at/53S68B" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
 
-- 🔭 Saat ini saya sedang mengerjakan **Jaring Sinergi Mandiri**
+###
 
-- 👯 Saya ingin berkolaborasi dalam **proyek pengembangan Frontend menggunakan React / Next.js**
+<h1 align="center">hey there 👋</h1>
 
-- 👨‍💻 Semua proyek saya tersedia di [https://portfolio-wheat-nine-37.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaeQJM2RM8cW4CoR4nfXUBl_9ggKb05DLSISrkHFG01XwJdVEHmq7qlBqfk6tg_aem_Kv0Bz6U9zBpbDePTEj81Mw](https://portfolio-wheat-nine-37.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaeQJM2RM8cW4CoR4nfXUBl_9ggKb05DLSISrkHFG01XwJdVEHmq7qlBqfk6tg_aem_Kv0Bz6U9zBpbDePTEj81Mw)
+###
 
-- 💬 Tanyakan kepada saya tentang **React,nextjs**
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-<h3 align="left">Hubungi saya:</h3>
-<p align="left">
+<p align="left">I'm Badriana from Pandeglang<br><br>- 🔭 I’m working as Jaring Sinergy Mandiri<br>- 📚 I'm currently learning autodidactic<br>- ⚡ In my free time I Saturday and Sunday</p>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/badriana-badrian?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/badriana-badrian?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-</p>
+###
 
+<h3 align="left">🛠 Language and tools</h3>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=badriana400952&show_icons=true&locale=id" alt="badriana400952" /></p>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats : badriana400952</h3>
+
+###
