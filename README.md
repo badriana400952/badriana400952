@@ -59,8 +59,7 @@
 
 ###
 
-## Kolaborasi / Inspirasi
-
-- [@namauser](https://github.com/https://github.com/badrian400952)
+### Kolaborasi / Inspirasi
+- [@Badrian](https://github.com/badrian400952)
 
 
