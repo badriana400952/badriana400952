@@ -55,7 +55,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats : badriana400952</h3>  
 
 ###
 
