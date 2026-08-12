@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/badriana-badrian?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
-  <a href="https://www.npmjs.com/package/@badriana/ai-core" target="_blank">
-    <img src="https://img.shields.io/badge/NPM-%40badriana%2Fai--core-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="28" alt="NPM Package" />
+  <a href="https://www.npmjs.com/~badriana" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-Profile-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="28" alt="NPM Profile" />
   </a>
   <a href="https://github.com/badriana400952" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-badriana400952-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
@@ -32,7 +32,7 @@ Name: Badriana
 Location: Pandeglang, Banten, Indonesia
 Current Role: Software Engineer at Jaring Sinergy Mandiri
 Learning Path: Autodidactic Artificial Intelligence & Modern System Architecture
-Author Of: @badriana/ai-core (Enterprise RAG & Multimodal AI Framework)
+Published NPM Packages: 4 Open-Source Packages (@badriana/ai-core, copong-date, copong-utils, badrian-icon)
 Free Time: Weekend Coding, Open Source & Continuous Learning
 ```
 
@@ -40,13 +40,16 @@ Free Time: Weekend Coding, Open Source & Continuous Learning
 
 ---
 
-### 🚀 Featured Open Source Project
+### 📦 My Open Source NPM Packages (4 Packages)
 
 <div align="center">
 
-| 📦 Package | 🌟 Description | 🔗 Link |
-| :--- | :--- | :---: |
-| **`@badriana/ai-core`** | Prisma-style client for Document Ingestion, Multimodal Vision, Audio TTS/STT & RAG Reranking across Express, NestJS, Next.js, Fastify, Koa & React. | [NPM Package](https://www.npmjs.com/package/@badriana/ai-core) |
+| # | 📦 Package Name | 🌟 Description & Key Features | 🔗 NPM Link |
+| :---: | :--- | :--- | :---: |
+| **1** | **`@badriana/ai-core`** | Enterprise Prisma-style AI Framework for Document RAG Ingestion, Multimodal Vision OCR, Audio Speech Synthesis (TTS/STT) & 6 Framework Architectures (Express, NestJS, Next.js, Fastify, Koa, React). | [![NPM](https://img.shields.io/npm/v/@badriana/ai-core?color=CB3837&logo=npm)](https://www.npmjs.com/package/@badriana/ai-core) |
+| **2** | **`copong-date`** | Lightweight JavaScript & TypeScript date utility library for fast formatting, relative time calculation, and timezone manipulation. | [![NPM](https://img.shields.io/npm/v/copong-date?color=CB3837&logo=npm)](https://www.npmjs.com/package/copong-date) |
+| **3** | **`copong-utils`** | Collection of essential helper utilities, string normalization, object manipulation, and data transformation helpers. | [![NPM](https://img.shields.io/npm/v/copong-utils?color=CB3837&logo=npm)](https://www.npmjs.com/package/copong-utils) |
+| **4** | **`badrian-icon`** | Customizable, lightweight UI icon component library designed for modern web applications and React interfaces. | [![NPM](https://img.shields.io/npm/v/badrian-icon?color=CB3837&logo=npm)](https://www.npmjs.com/package/badrian-icon) |
 
 </div>
 
@@ -100,7 +103,8 @@ Free Time: Weekend Coding, Open Source & Continuous Learning
 ---
 
 
+
 <div align="center">
   <p><i>"Continuous learning and building elegant AI software for the future."</i></p>
-  <p>© Badriana • Powered by <a href="https://github.com/badriana400952/ai-core">@badriana/ai-core</a></p>
+  <p>© Badriana • Powered by <a href="https://www.npmjs.com/~badriana">badriana NPM Packages</a></p>
 </div>
