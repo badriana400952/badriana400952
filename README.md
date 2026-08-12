@@ -1,64 +1,106 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+  <!-- Header Banner / GIF -->
+  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
+
+  <br/><br/>
+
+  <!-- Social Badges & Links -->
+  <a href="https://www.linkedin.com/in/badriana-badrian?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+  </a>
+  <a href="https://www.npmjs.com/package/@badriana/ai-core" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-%40badriana%2Fai--core-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="28" alt="NPM Package" />
+  </a>
+  <a href="https://github.com/badriana400952" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-badriana400952-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
+  <h1>✨ Hey there, I'm Badriana 👋</h1>
+  <p><b>Full-Stack Developer & AI Software Engineer</b> from Pandeglang, Indonesia 🇮🇩</p>
+
 </div>
 
-###
+<hr/>
+
+### 🔮 About Me
+
+```yaml
+Name: Badriana
+Location: Pandeglang, Banten, Indonesia
+Current Role: Software Engineer at Jaring Sinergy Mandiri
+Learning Path: Autodidactic Artificial Intelligence & Modern System Architecture
+Author Of: @badriana/ai-core (Enterprise RAG & Multimodal AI Framework)
+Free Time: Weekend Coding, Open Source & Continuous Learning
+```
+
+<br/>
+
+---
+
+### 🚀 Featured Open Source Project
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/badriana-badrian?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <!-- <a href="https://wasap.at/53S68B" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a> -->
+
+| 📦 Package | 🌟 Description | 🔗 Link |
+| :--- | :--- | :---: |
+| **`@badriana/ai-core`** | Prisma-style client for Document Ingestion, Multimodal Vision, Audio TTS/STT & RAG Reranking across Express, NestJS, Next.js, Fastify, Koa & React. | [NPM Package](https://www.npmjs.com/package/@badriana/ai-core) |
+
 </div>
 
-###
+<br/>
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+### 🛠️ Languages, Frameworks & Tools
 
-<h3 align="left">👩‍💻  About Me</h3>
+<div align="center">
 
-###
+#### 💻 Programming Languages & Runtime
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" />
 
-<p align="left">I'm Badriana from Pandeglang<br><br>- 🔭 I’m working as Jaring Sinergy Mandiri<br>- 📚 I'm currently learning autodidactic<br>- ⚡ In my free time I Saturday and Sunday</p>
+<br/><br/>
 
-###
+#### ⚡ Backend & AI Engineering Frameworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42" alt="Express.js" style="filter: invert(1);" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="42" alt="NestJS" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="42" alt="Fastify" style="filter: invert(1);" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL pgvector" />
 
-<h3 align="left">🛠 Language and tools</h3>
+<br/><br/>
 
-###
+#### 🎨 Frontend & Styling
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js" style="filter: invert(1);" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="42" alt="Redux" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42" alt="Tailwind CSS" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" alt="Bootstrap" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  /> -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 
-###
+<br/>
+
+---
 
 
-###
-
-### Kolaborasi / Inspirasi
-- [@Badrian](https://github.com/badrian400952)
-
-
+<div align="center">
+  <p><i>"Continuous learning and building elegant AI software for the future."</i></p>
+  <p>© Badriana • Powered by <a href="https://github.com/badriana400952/ai-core">@badriana/ai-core</a></p>
+</div>
